@@ -31,16 +31,16 @@ Potential Pain Points for Brandon:
 ## User Stories
  **As a [user role], I want to [what], so that [why]**
 
-1. As a user, I want acne prone skin products so I can stop breaking out
-2. As a user, I want personalized product recommendations so that I don't need to experiment with products
-3. As a user. I want a product without certain ingredients so that I dont cause further damage to my skin
+1. As a user, I want acne prone skin products so I can stop breaking out.
+2. As a user, I want personalized product recommendations so that I don't need to experiment with products.
+3. As a user with sensitive skin, I want products without certain ingredients so that I dont cause further damage to my skin.
 4. As a user, I want to learn more about skincare products so that I can make informed decisions.
-5. As a user, I want a simplified routine so that I can save time
-6. As a user, I want a skincare quiz so that I can get personalized routine
-7. As a user, I want to receive personalized  skincare recommendations based on my skin concerns so that I can address my specific needs.
-8. As a user, I want sunscreen recommendations, so that I can use it daily and protect my skin
-9. As a user, I want instructions on how to use the recommended products to maximize its benefits
-10. As a user, I want a variety of products, so that I can choose between the different prices.
+5. As a busy individual, I want a simplified routine so that I can save time.
+6. As a new user, I want to take a skincare quiz so that I can get personalized routine
+7. As a new user, I want to receive personalized  skincare recommendations based on my skin concerns so that I can address my specific needs.
+8. As a user, I want personalized sunscreen recommendations suitable for daily use to protect my skin from sun damage.
+9. As a user, I want clear instructions on how to use recommended products to maximize benefits and ensure they are suitable for my skin type and concerns. 
+10. As a user, I want a diverse range of skincare products available across different price points so that I can choose options that fit my budget and needs.
 
 
 
