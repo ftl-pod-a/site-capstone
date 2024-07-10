@@ -34,10 +34,15 @@ User personas:
 10. As a user, I want a diverse range of skincare products available across different price points so that I can choose options that fit my budget and needs.
 
 
-
 ## Pages/Screens
 
-List all the pages and screens in the app. Include wireframes for at least 3 of them.
+- Landing/Home Page
+- Login & Sign up Page
+- Routine Page 
+- Quiz Page
+- Education Page
+
+[Figma Wireframe](https://www.figma.com/design/cSHG9IziunARHO9NsmguJ2/dreamskin-wireframe?node-id=29-9787&t=w9egU63p7K9EW1GW-1)
 
 ## Data Model
 
