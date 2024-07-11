@@ -54,4 +54,47 @@ Describe your app's data model using diagrams or tables
 
 List the API endpoints you will need to implement.
 
+## User Endpoints
+
+1) Create User
+    POST /users
+    Creates a new user with the specified username, email, password, and skinType.
+2) Get User by Username
+    GET /users/:username
+    Retrieves user details by their username.
+3) Update User
+    PUT /users/:username
+    Updates the skinType, concerns and goals for the user identified by username
+4) Delete User
+    DELETE /users/:username
+    Deletes the user account identified by username.
+
+## Product Endpoints
+
+1) Create Product
+    POST /products
+    Creates a new product with attributes including name, description, price, ingredients, and bestSkinType.
+2) Get All Products
+    GET /products
+    Retrieves a list of all products available in the database.
+3) Get Product by ID
+    ET /products/:id
+    Retrieves product details by its unique identifier (id).
+4) Search Products by Ingredients
+    ET /products-by-ingredients?ingredients=:ingredients
+    It queries the local database to find products that contain any of the specified ingredients provided in the ingredients query parameter
+5) Update Product
+    PUT /products/:id
+    Updates product details identified by id. Allows modifying name, description, price, ingredients, and bestSkinType.
+6) Delete Product
+    DELETE /products/:id
+    Deletes the product identified by its unique id
+
+## API Integration Endpoints
+1) Fetch Recommended Ingredients
+    GET /api/recommended-ingredients?skinType=:skinType
+    Calls an external API to fetch recommended ingredients suitable for a specific skinType, concern, and goal.
+
+
+
 ***Don't forget to set up your Issues, Milestones, and Project Board!***
