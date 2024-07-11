@@ -48,6 +48,8 @@ User personas:
 
 Describe your app's data model using diagrams or tables
 
+[Model Diagram](https://dbdiagram.io/d/dreamskin-data-model-669058ca9939893daeb5f9e5)
+
 ## Endpoints
 
 List the API endpoints you will need to implement.
