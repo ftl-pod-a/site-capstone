@@ -52,6 +52,36 @@ Describe your app's data model using diagrams or tables
 
 [Document of Data Model](https://docs.google.com/document/d/1RT-Y2oao9LKoy79ZWnIMXvj2X8ZostfqxqFoGwwCtVQ/edit)
 
+
+Product     Type        Description 
+id          integer     Primary key
+name        text        Name of the product
+category    text        If cleanser, moisturizer, sunscreen, or balm 
+imageUrl    text        The link of the image 
+description text        Description of the product 
+price       float       Price of the product 
+ingredients text        Ingredients of the product
+likes       integer     The number of likes changes and it saves to their liked page 
+
+
+
+User        Type        Description 
+user_id     integer     Primary key
+google_id   integer     The id from google 
+username    text        Unique username from the user
+skinType    text        The user’s skin type (data saved)
+goals       text        The user’s goal for their skin (data saved)
+concerns    text        The user’s concerns for their skin (data saved)
+
+
+
+ApiRequest  Type        Description 
+api_id      integer     Primary key
+endpoint    text        Store textual data 
+query       text        Handle textual data
+createdAt   DateTime    Check the accessed time 
+
+
 ## Endpoints
 
 List the API endpoints you will need to implement.
