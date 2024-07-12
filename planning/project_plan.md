@@ -50,6 +50,8 @@ Describe your app's data model using diagrams or tables
 
 [Model Diagram](https://dbdiagram.io/d/dreamskin-data-model-669058ca9939893daeb5f9e5)
 
+[Document of Data Model](https://docs.google.com/document/d/1RT-Y2oao9LKoy79ZWnIMXvj2X8ZostfqxqFoGwwCtVQ/edit)
+
 ## Endpoints
 
 List the API endpoints you will need to implement.
