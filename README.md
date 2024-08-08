@@ -2,18 +2,18 @@
 
 # SITE Capstone Project
 
-SITE Course Year: **20__**
+SITE Course Year: **2024**
 
 Cohort: **Add Company Sponsor Name**
 
-Team Member Names:**Insert Team Member Names**
+Team Member Names:**Evelyn Zhinin, Maria Perez, Elizabeth Johnson**
 
-Mentors Names: **Insert Professional Mentor Names**
+Mentors Names: **Kavya Murali, Mitch Mikusek, Raghav Abboy**
 
 Project Code Repository Links
 
-* [Frontend Repo Link]()
-* [Backend Repo Link]()
+* [Frontend Repo Link](https://github.com/ftl-pod-a/dreamskin-client)
+* [Backend Repo Link](https://github.com/ftl-pod-a/dreamskin-server)
 
 ## Project Overview
 
